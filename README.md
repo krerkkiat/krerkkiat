@@ -4,6 +4,11 @@ He is a graduate student at [Ohio University](https://www.ohio.edu/). He manages
 
 This is couple bytes in utf-8 than couple bits.
 
+## Fun facts
+
+- His contribution to open source projects so far are documentation fixes.
+- [TomineitorArt](https://www.etsy.com/shop/TomineitorArt) draws the profile picture.
+
 <!--
 **krerkkiat/krerkkiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
