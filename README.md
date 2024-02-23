@@ -32,7 +32,7 @@ Here are the programming languages I know by type.
 - General purpose/scripting : Python
 - Functional : Haskell
 
-
+Profile design inspired by https://github.com/zillastar
 
 Don't know why I still keep this here --- 😂
 
