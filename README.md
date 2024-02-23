@@ -1,6 +1,6 @@
 ## A (couple) bit(s) about him
 
-<a href="https://twitter.com/chipencil"><img align="right" width="100" alt="Kokomi by chipencil" src="https://i.imgur.com/Wva3UCK.jpg" /></a>
+<a href="https://twitter.com/chipencil" target="_blank"><img align="right" width="100" alt="Kokomi by chipencil" src="https://i.imgur.com/Wva3UCK.jpg" /></a>
 
 He is a graduate student at [Ohio University](https://www.ohio.edu/). He manages to spend more running [OU Thai Student Association's website](https://tsaou.page/) on its own domain (he should just use Linktree). He thought it was fun to help run a conference and also live debugging production codebase for said conference. He loves to spend months automate task that only takes a few hours.
 
@@ -16,7 +16,8 @@ This is couple bytes in utf-8 than couple bits.
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <div align="right">
-  Profile picture by <a href="https://www.etsy.com/shop/TomineitorArt">TomineitorArt</a>
+  Profile picture by <a href="https://www.etsy.com/shop/TomineitorArt" target="_blank">TomineitorArt</a><br />
+  Kokomi's art by <a href="https://twitter.com/chipencil" target="_blank">chipencil</a>
 </div>
 
 <!--
