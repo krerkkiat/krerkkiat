@@ -15,6 +15,10 @@ This is couple bytes in utf-8 than couple bits.
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+## Support me
+
+- [Digital Ocean Referral Link](https://m.do.co/c/c88e9266cef8)
+
 <div align="right">
   Profile picture by <a href="https://www.etsy.com/shop/TomineitorArt" target="_blank">TomineitorArt</a><br />
   Kokomi's art by <a href="https://twitter.com/chipencil" target="_blank">chipencil</a>
