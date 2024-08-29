@@ -1,10 +1,8 @@
-## A (couple) bit(s) about him
+## About him
 
 <a href="https://twitter.com/chipencil" target="_blank"><img align="right" width="100" alt="Kokomi by chipencil" src="https://i.imgur.com/Wva3UCK.jpg" /></a>
 
-He is a graduate student at [Ohio University](https://www.ohio.edu/). He manages to spend more running [OU Thai Student Association's website](https://tsaou.page/) on its own domain (he should just use Linktree). He thought it was fun to help run a conference and also live debugging production codebase for said conference. He loves to spend months automate task that only takes a few hours.
-
-This is couple bytes in utf-8 than couple bits.
+He is a Ph.D. student at [Ohio University](https://www.ohio.edu/) studying machine learning for game-playing agent and user interface design for augmented reality devices. He manages to spend more running [OU Thai Student Association's website](https://tsaou.page/) on its own domain (he should just use Linktree). He thought it was fun to help run a conference and also live debugging the production codebase for said conference. He loves to spend months automating a task that only takes a few hours to complete if done manually.
 
 ## Fun facts
 
