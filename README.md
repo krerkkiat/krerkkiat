@@ -1,6 +1,6 @@
 ## About him
 
-<a href="https://twitter.com/chipencil" target="_blank"><img align="right" width="100" alt="Kokomi by chipencil" src="https://i.imgur.com/Wva3UCK.jpg" /></a>
+<a href="https://x.com/chipencil/status/1466043794919284741" target="_blank"><img align="right" width="100" alt="Kokomi by chipencil" src="https://i.imgur.com/Wva3UCK.jpg" /></a>
 
 He is a Ph.D. student at [Ohio University](https://www.ohio.edu/) studying machine learning for game-playing agent and user interface design for augmented reality devices. He manages to spend more running [OU Thai Student Association's website](https://tsaou.page/) on its own domain (he should just use Linktree). He thought it was fun to help run a conference and also live debugging the production codebase for said conference. He loves to spend months automating a task that only takes a few hours to complete if done manually.
 
